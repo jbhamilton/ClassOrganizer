@@ -348,6 +348,9 @@ if(stripos(__FILE__,$_SERVER['SCRIPT_FILENAME'])!==false){
             $CO->set_convention($opts['-c']);
         }//if
         if($opts['-o']!=''){
+            $CO->set_order($opts['-o']);
+        }//if
+        if($opts['-n']!=''){
             $CO->set_out_name($opts['-o']);
         }//if
         if($opts['-fg']!=''){
