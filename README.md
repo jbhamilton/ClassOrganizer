@@ -12,6 +12,7 @@
 <h2>CLI use</h2>
 
 <b>Available Options</b>
+
 Function  | Values | Achieves
 --------- | ------ | --------
 -o_| 'asc'\n'desc' | Set the sort to Ascending or Descending
