@@ -13,6 +13,7 @@
 
 <b>Available Options</b>
 Function  | Values | Achieves
+--------- | ------ | --------
 -o_| 'asc'\n'desc' | Set the sort to Ascending or Descending
 -g | 'public-private'\n'private-public' | Set which order variables and function should be printed in
 -fg | integer | Set the number of new lines which should be printed after functions
